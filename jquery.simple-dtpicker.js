@@ -2,6 +2,8 @@
  * jquery-simple-datetimepicker (jquery.simple-dtpicker.js)
  * (c) Masanori Ohgita - 2013.
  * https://github.com/mugifly/jquery-simple-datetimepicker
+ *
+ * Forked by @rstacruz for AM/PM support
  */
 
  (function($) {
